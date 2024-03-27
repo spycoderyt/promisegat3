@@ -1,5 +1,4 @@
 1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5
-AR/unknown partner
 Annexin A2/S100-A10
 Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1
 BAZ2B/H4
@@ -13,7 +12,6 @@ CREBBP/H4
 CRM1/Rev
 Catenin beta-1/Transcription factor 7
 Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2
-Cyclophilins
 DCN1/UBE2M
 E1/E2
 ELF3/MED23
@@ -28,7 +26,6 @@ IL2/IL2R
 INTEGRASE/LEDGF
 Importin subunit beta-1/Snurportin-1
 Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11
-Integrins
 Interferon-induced guanylate-binding protein 1/Serine/threonine-protein kinase pim-1
 KEAP1/NRF2
 KRAS/SOS1
@@ -57,12 +54,8 @@ Rad51/BRCA2
 Ras and Rab interactor 1/Tyrosine-protein kinase ABL1
 Runt-related transcription factor 1/Core-binding factor subunit beta
 S100B/p53
-SOD1 dimer
 TNFA/TNFA
 TNFR1A/TNFB
-Transthyretin tetramer
-Tubulin dimer
-Uncategorized
 VEGF/VEGFR
 VHL/HIF1A
 Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1

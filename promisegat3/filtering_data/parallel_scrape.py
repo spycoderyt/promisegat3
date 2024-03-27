@@ -23,10 +23,11 @@ PROJECT_ROOT, PROJECT_TAIL = os.path.split(PROJECT_ROOT)
 # service = Service(executable_path=DRIVER_BIN)
 service = ChromeService(ChromeDriverManager().install())
 
+folder_dir = "dlip_files_inactive"
 chrome_options = Options()
 chrome_options.add_argument("--headless")
-os.makedirs("dlip_files_inactive", exist_ok=True)
-target_folder = os.path.join(PROJECT_ROOT, "dlip_files_inactive")
+os.makedirs(folder_dir, exist_ok=True)
+target_folder = os.path.join(PROJECT_ROOT, folder_dir)
 
 chrome_options.add_experimental_option(
     "prefs",
@@ -70,8 +71,7 @@ def count_files_in_directory(directory_path):
         ]
     )
 
-#ending page = 29
-MAX_THREADS = 64
+MAX_THREADS = 8
 page_num = 1
 total_items = 5848
 start_time = time.time()
@@ -79,16 +79,18 @@ try:
     # Navigate to the website
     driver.get("https://skb-insilico.com/dlip/compound-search/curated-data/rule-based")
     time.sleep(0.5)  # wait for the page to load
-
+    print(f"doing for folder{folder_dir}")
     # Select 'Active'
     select = Select(driver.find_element(By.ID, "active"))
     select.select_by_value("false")
 
+    select = Select(driver.find_element(By.NAME, "compound-list-table_length"))
+    select.select_by_value("100")
     # Click 'Search'
     driver.find_element(
         By.CSS_SELECTOR, "button.btn.btn-outline.btn-default.btn-lg.btn-block.btn-green"
     ).click()
-    time.sleep(0.5)  # wait for results to load
+    time.sleep(2)  # wait for results to load
 
     while True:
         # Get all compound links

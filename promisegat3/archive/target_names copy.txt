@@ -1,0 +1,74 @@
+1-acylglycerol-3-phosphate O-acyltransferase ABHD5/Perilipin-5
+AR/unknown partner
+Annexin A2/S100-A10
+Aryl hydrocarbon receptor nuclear translocator/Endothelial PAS domain-containing protein 1
+BAZ2B/H4
+BCL-like/BAX,BAK
+BCoR/BCL6
+Beta-catenin/TCF
+Bromodomain/Histone
+CD4/gp120
+CD80/CD28
+CREBBP/H4
+CRM1/Rev
+Catenin beta-1/Transcription factor 7
+Cyclin-dependent kinases regulatory subunit 1/S-phase kinase-associated protein 2
+Cyclophilins
+DCN1/UBE2M
+E1/E2
+ELF3/MED23
+FAK/VEGFR3
+FKBP1A/FK506
+GATA4/NKX2-5
+Glucokinase/Glucokinase regulatory protein
+Guanine nucleotide-binding protein G(i) subunit alpha-1/Regulator of G-protein signaling 12
+HIF-1a/p300
+HRAS/SOS1
+IL2/IL2R
+INTEGRASE/LEDGF
+Importin subunit beta-1/Snurportin-1
+Induced myeloid leukemia cell differentiation protein Mcl-1/Bcl-2-like protein 11
+Integrins
+Interferon-induced guanylate-binding protein 1/Serine/threonine-protein kinase pim-1
+KEAP1/NRF2
+KRAS/SOS1
+LEDGF/IN
+LFA/ICAM
+MDM4/P53
+MENIN/MLL
+MIF/CD74 (Macrophage migration inhibitory factor and HLA-DR antigens-associated invariant chain)
+MKEAP1/MNRF2
+MYC/MAX
+NCS-1/Ric8a
+NRP/VEGF
+Neuropilin-1/VEGF-A
+P53/HDM2
+PA/PB1
+PB1-5/H3
+PCSK9/LDLR
+Perilipin-1/ABHD5
+Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 1
+Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 2
+Peroxisome proliferator-activated receptor gamma/Nuclear receptor coactivator 3
+Peroxisome proliferator-activated receptor gamma/Nuclear receptor corepressor 2
+RAC1/TIAM1
+RANKL/RANK
+Rad51/BRCA2
+Ras and Rab interactor 1/Tyrosine-protein kinase ABL1
+Runt-related transcription factor 1/Core-binding factor subunit beta
+S100B/p53
+SOD1 dimer
+TNFA/TNFA
+TNFR1A/TNFB
+Transthyretin tetramer
+Tubulin dimer
+Uncategorized
+VEGF/VEGFR
+VHL/HIF1A
+Voltage-gated N-type calcium channel alpha-1B subunit/Amyloid beta A4 precursor protein-binding family A member 1
+WDR5/MLL1
+WDR5/Mixed-lineage leukemia 1 (MLL1)
+XDM2/P53
+XIAP/SMAC
+ZIPA/FTSZ
+p53/MDMX
